@@ -1,7 +1,7 @@
 # KAMORO
 Kamoro is commandline application for grading c++ code base on given input and expected ouput 
-## Requirtments
 ___
+## Requirtments
 What you need to install in your machine:
  - `go 1.15`
  - `g++`
@@ -30,13 +30,13 @@ You need 3 folder inside the directory you want to grade :
     └── ...
 
 > Use lowercase for every folders names 
-## Notes
 ___
+## Notes
  - `The submission name must follow this : {studentID}-{typeproblem}.cpp`
  - `input and output file name inside input and ouput folder must follow this: a.in / a.out {typeproblem.extension (in/out) }`
 
-## How to Use
 ___
+## How to Use
  1. Clone from my github repository
  2. Go ahead to the folder that you have cloned
  3. Just type `$ make grade`
