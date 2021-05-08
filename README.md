@@ -32,7 +32,6 @@ You need 3 folder inside the directory you want to grade :
     └── ...
 
 > Use lowercase for every folders names
-## Notes
 ___
 ## Notes
  - `The submission name must follow this : {studentID}-{typeproblem}.cpp`
